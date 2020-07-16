@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\bin\Debug\netcoreapp3.1\Guns.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Guns\Guns\obj\Debug\netcoreapp3.1\Guns.genruntimeconfig.cache
